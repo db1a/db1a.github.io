@@ -1,4 +1,3 @@
-## 10/16/23
 |      |      |      |      |
 | :--- | :--- | :--- | :--- |
 | 1. | [Cloudy Elevator](cloudy-elevator.mp3) | *7:33* |
