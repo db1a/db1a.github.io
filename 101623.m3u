@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:111, Cloudy Elevator
-../cloudy-elevator.mp3
+cloudy-elevator.mp3
 
 #EXTINF:222, Floor 4
-../floor-4.mp3
+floor-4.mp3
 
 #EXTINF:333, Wh-operator
-../wh-operator.mp3
+wh-operator.mp3
 
 #EXTINF:444, Doom Unto U
-../doom-unto-u.mp3
+doom-unto-u.mp3
