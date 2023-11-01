@@ -1,5 +1,10 @@
 #EXTM3U
-1\cloudy-elevator.mp3
-2\floor-4.mp3
-3\wh-operator.mp3
-4\doom-unto-u.mp3
+
+#EXTINF:0, Track 01 - Cloudy Elevator
+https://db1a.github.io/cloudy-elevator.mp3
+#EXTINF:0, Track 02 - Floor 4
+https://db1a.github.io/floor-4.mp3
+#EXTINF:0, Track 03 - Wh-operator
+https://db1a.github.io/wh-operator.mp3
+#EXTINF:0, Track 04 - Doom Unto U
+https://db1a.github.io/doom-unto-u.mp3
