@@ -1,7 +1,7 @@
 ### `1/8/24`
 
 [uncouth](uncouth.wav)  
-[cant\ even\ stand](cant even stand.wav)  
+[cant&nbsp;even&nbsp;stand](can't even stand.wav)  
 [only](only.wav)  
 [extra cold](extra cold.wav)  
 [darndest thing](darndest thing.wav)  
