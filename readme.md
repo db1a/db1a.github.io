@@ -1,5 +1,7 @@
-### `10/16/23`
-`01` [`Cloudy Elevator`](cloudy-elevator.mp3)    `07:33`  
-`02` [`Floor 4`](floor-4.mp3)        `10:46`  
-`03` [`Wh-operator`](wh-operator.mp3)      `07:29`  
-`04` [`Doom Unto U`](doom-unto-u.mp3)      `04:58`
+### `1/8/24`
+`01` [`uncouth`](uncouth.wav)
+`02` [`can't even stand`](cant even stand.wav)
+`03` [`only`](only.wav)
+`04` [`extra cold`](extra cold.wav)
+`05` [`darndest thing`](darndest thing.wav)
+`06` [`shadows`](shadows.wav)
